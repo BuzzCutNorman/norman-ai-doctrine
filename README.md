@@ -4,6 +4,10 @@
 **Status:** Public Review Draft  
 **Date:** 2026-07-28
 
+**License:** CC BY-SA 4.0
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
 ## Preamble
 The Norman AI Doctrine exists to guide the design of trustworthy institutional intelligence systems. It recognizes that knowledge alone is insufficient, action without knowledge is dangerous, and professional practice requires oversight, correction, and trust. The doctrine seeks to help institutions learn, improve, and responsibly incorporate artificial intelligence into professional work.
 
