@@ -1,8 +1,8 @@
 # The Norman AI Doctrine
 
-**Version:** 0.6  
-**Status:** Public Review Draft  
-**Date:** 2026-07-28
+**Version:** 0.7  
+**Status:** Release Candidate  
+**Date:** 2026-09-25
 
 **License:** CC BY-SA 4.0
 
@@ -279,29 +279,19 @@ Accountability remains with the institution.
 
 # Tenth Principle
 
-## The Goal Is Competence
+## The Goal Is Earned Trust
 
-The goal is not autonomy.
+Artificial intelligence must be onboarded, not merely deployed.
 
-The goal is not automation.
+Artificial intelligence must listen, adapt, and internalize guiding intent.
 
-The goal is not prediction.
+Artificial intelligence must communicate transparently and seek assistance and clarification when unsure.
 
-The goal is competence.
+Supervisors and peers provide ongoing guidance, mentorship, and validation of operational alignment.
 
-Competence emerges from:
+Competence is earned through interaction.
 
-```text
-Knowledge
-
-Action
-
-Oversight
-
-Correction
-
-Trust
-```
+Trust is bestowed through demonstrated excellence.
 
 ***
 
